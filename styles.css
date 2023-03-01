@@ -1,0 +1,93 @@
+body
+*{ 
+     font-family: Arial, Helvetica, sans-serif;
+     background-color: violet;
+     box-sizing: border-box;
+     margin: 15px;;
+     height: 1000 px; 
+     font-family:t;
+    }
+
+section {
+    height: 220px;
+ }
+
+ section#intro {
+    height: 220px;
+    background-color:brown;
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center ;
+ }
+
+h1{
+   height: 30px;
+   background-color:violet;
+   border: 10px solid;
+   margin: 30px;
+   font-family: Arial, Helvetica, sans-serif;
+    }
+
+
+h2{  
+   background-color:brown;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   text-align: center;
+   border: 3px solid;
+   width:600px;
+   font-size: 3rem  
+}
+
+section#inicio {
+    background-color:brown;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+ }
+
+section#image img {
+    width:10%;
+ }
+
+ section#inicio{
+    height: 220px
+ }
+
+
+ section#workbackground {
+    background-color:brown
+ }
+
+ h4 {
+    background-color:brown;
+    font-family: Arial, Helvetica, sans-serif;
+    width:600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    border: 5px solid;
+    border-radius: 
+    width:600px;
+    font-size: 3rem  
+ }
+
+ h5{
+   background-color:brown;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   text-align: center;
+   border: 3px solid;
+   width:600px;
+   font-size: 3rem  
+}
+
+ footer {
+    background-color:violet;
+    font-size: 2rem
+ }
